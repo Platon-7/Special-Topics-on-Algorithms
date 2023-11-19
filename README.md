@@ -13,5 +13,3 @@ problems, randomized approximation algorithms.
 - Linear programming and integer linear programming.
 - Max flow and bipartite matching problems. Complementary slackness, primal-dual theory of integer programming. Use of linear programming for designing approximation
 algorithms (LP-Rounding and primal dual methods).
-
-The projects are in English after a special request approved by the professor of the course.
